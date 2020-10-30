@@ -1,4 +1,4 @@
-package com.company.Boletin1;
+package com.company.Boletin2;
 
 public class Ejercicio1 {
     public static void main(String[] args) {
@@ -7,5 +7,3 @@ public class Ejercicio1 {
         System.out.println("Aqui va el ejercicio 1");
     }
 }
-
-
